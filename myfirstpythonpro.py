@@ -1,0 +1,1 @@
+print(" This is my first python program and this is my list \nwhere and how I do it , \nisn't it great that we being thousands of km \napart and still able to do so many things but still doesn't make sense")
